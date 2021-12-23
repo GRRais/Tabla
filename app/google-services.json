@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "385203476393",
+    "firebase_url": "https://tabladkotlin-26fc3-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tabladkotlin-26fc3",
+    "storage_bucket": "tabladkotlin-26fc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385203476393:android:76d183e08289242c8c96b8",
+        "android_client_info": {
+          "package_name": "ru.rayanis.tabladeanuncioskotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385203476393-bm6ra3sb6vt0rsge000pjm849cifk8lu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.rayanis.tabladeanuncioskotlin",
+            "certificate_hash": "4f16d1e015535766bce8b1fc06e71f664b513403"
+          }
+        },
+        {
+          "client_id": "385203476393-rpt0e75q42qsrt2hui8pl72hi8lgc0oi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.rayanis.tabladeanuncioskotlin",
+            "certificate_hash": "ddd2e5735364de3b5421a69666fb4321bb1fe4c2"
+          }
+        },
+        {
+          "client_id": "385203476393-ajjarudf1ls8q60216mj9b1ioprln9ou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzOZbwZGqF7wQl589la6zJuR4PzPALY2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385203476393-ajjarudf1ls8q60216mj9b1ioprln9ou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
